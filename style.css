@@ -1,0 +1,14 @@
+body{
+
+    margin: 0 !important;
+    
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+
+}
